@@ -1,4 +1,4 @@
-# 🐧 Linux for DevOps & DevSecOps --- Complete Phase 1 README
+# 🐧 Linux for DevSecOps
 
 ![Linux](https://img.shields.io/badge/Linux-DevOps%20Foundation-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
